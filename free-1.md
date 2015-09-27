@@ -1,18 +1,22 @@
 # Free project 1
+### Shared Spaces
 
 ## The user and a language
 This section describes who the project would serve and why a language might be a
 good way to meet their needs.
 
+This project serves a group of people who share a set of spaces and need to use the spaces at various times. Examples include kitchenes, lab spaces, and study room. This language would ideally be good for any user to reserve a space or designate the space as 'occupied'.
 
 ### What's the need?
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help 
 them?_
 
+Shared spaces are often managed by some form of scheduler but the interfaces we use for them are nonintuitive and rather poor.
 
 ### Why a language?
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
+
 
 
 ### Why you?
