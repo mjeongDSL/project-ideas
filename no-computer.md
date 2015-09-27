@@ -5,29 +5,35 @@
 This section describes who the project would serve and why a language might be a
 good way to meet their needs.
 
+Schematics serve designers, engineers and machinists who are trying to produce a specific part. The American National Standards Institute (ANSI) has a standardized system for describing a part using a schematic. This system involves a vocabulary and syntax to clearly relay only important information. If a part is not well described, the final part and the original design will differ and this discrepency generates inefficiencies in the production cycle.
 
 ### What's the need?
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help 
 them?_
 
+Schematics meet the needs of engineers who need to model a specific part and the needs of machinists who need a precise set of rules to create a part. Without schematics, verbal or written descriptions would be lengthy while pictoral descriptions would be vague and misunderstood. 
 
 ### Why a language?
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
+The DSL is appropriate because while it creates a barrier of information to part designs, it allows domain-users to quickly understand the specifics of a part. It uses many symbols and a strict syntax so that anyone familiar with the ANSI standard will be able to quickly understand every defined aspect of the part.
 
 ### Why you?
 _What excites you about this idea? How did you come up with it?_
 
+While schematics were not my idea, I believe the standards came about as a way of unifying various pictoral systems so that anyone could understand any schematic without having to know a specific regional system. This, and many other industrial standards, are ways that non-computer DSLs help people describe ideas that would be difficult with just a picture or words.
 
 ### Domain
 _Describe the project's domain in five words._
 
+Part design, specification, and manufacture.
 
 ### Interface (syntax)
 _How might the user interact with the language? What does programming look 
 like? Why is this the right way to interact with the problem domain?_ 
 
+In the past, users drafted schematics and read them on paper. Nowadays, it is similar but in a digital form. Schematics look like multiple views of the same part.
 
 ### Operation (semantics)
 _What might happen when a program runs? How does a program interact with the
