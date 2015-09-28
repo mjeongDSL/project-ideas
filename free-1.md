@@ -8,6 +8,8 @@ good way to meet their needs.
 
 This project serves a group of people who share a set of spaces and need to use the spaces at various times. Examples include kitchenes, lab spaces, and study room. This language would ideally be good for any user to reserve a space or designate the space as 'occupied'.
 
+Or - the DSL may be for people who want to build applications that groups of people would want.
+
 ### What's the need?
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help 
@@ -18,10 +20,12 @@ Shared spaces are often managed by some form of scheduler but the interfaces we 
 ### Why a language?
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
-
+A DSL is appropriate for our users because an interface to relate locations, time, and people is difficult to express in a general programming language.
+I think SQL would be a good candidate for solving this problem, but it would be less natural than one designed just for this purpose.
 
 ### Why you?
 _What excites you about this idea? How did you come up with it?_
+
 
 
 ### Domain
