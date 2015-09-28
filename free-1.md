@@ -1,4 +1,5 @@
 # Free project 1
+
 ### Shared Spaces
 
 ## The user and a language
@@ -12,7 +13,7 @@ _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help 
 them?_
 
-Shared spaces are often managed by some form of scheduler but the interfaces we use for them are nonintuitive and rather poor.
+Shared spaces are often managed by some form of scheduler but the interfaces we use for them are nonintuitive and rather poor. 
 
 ### Why a language?
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
